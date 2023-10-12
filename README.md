@@ -1,7 +1,7 @@
-# Hello, I'm MattSpeers
+# Hello, I'm Matt Speers
 
-## **I'm a DevOps and a Principal**
-- 🗣 I've taught co-works on Pipelines, such as Terraform, Vault, Consul, AWS, and others.
+## **I'm a DevOps and a Principal Pipelines**
+- 🗣 I've taught co-works on Pipelines, such as Terraform, Vault, AWS, and others.
 - 🚀 I also specialize in AWS, with over 10 years experience of AWS design and implementation
 - 📲 Never done consultancy before only work in field for 20+.
 - 🤝🏻 I am passionate about my work and always eager to connect with other experts.
@@ -11,7 +11,7 @@
 ## **Connect with Me On Social Media** 🤝🏻 &nbsp;
 
 <h3 align="left">
-<a href="https://www.linkedin.com/in/mattspeers">Matt Speers <img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+<a href="https://www.linkedin.com/in/mattspeers">LinkedIn Matt Speers <img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
 
   
 <a href="https://gitlab.com/mspeers"> GitLab MSpeers</a>
@@ -19,7 +19,14 @@
 
 ## **Courses complated**
 
-Need to add informaton here
+- 2022: A Cloutd Guru Online course over 30 cousrse around Cloud AWS, GCP, Terraform. 
+- 2020: PluralSight online course over 50 course around Cloud (Azure Kubernetes Services,
+Helm) and programming like Node.js, Spring, git. My online PluralSight Profile
+[matt-speers Profile](https://app.pluralsight.com/profile/matt-speers)
+- 2018: One day Kubernetes training in Toronto Canada
+- 2018: Conference All Day DevOps (alldaydevops.com) “back with 123 speakers, 30-minute practitioner-led sessions and live Q&A on Slack.”
+- 2017: Red Hat Submit 2017 was our largest gathering of customers, partners, and open source contributors yet—all celebrating the power that individuals make to open
+source technology
 
 <br>
 
@@ -31,7 +38,6 @@ Need to add informaton here
 
 <br>
 
-<br>
 
 <h2>Techology Stack and Experience 💻</h2>
 
@@ -45,16 +51,22 @@ Need to add informaton here
   <img alt="Github" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=Github&logoColor=white" width="100" height="30"/>
    <img alt="Github" src=" https://img.shields.io/badge/logo-gitlab-blue?style=flat-square&logo=GitLab&logoColor=white" width="100" height="30"/>
 </p>
+
    
 ##  **My Achievements 🏅**
-- [Windows Xp Cret for McAfee Software]
-- [Blackberry Automation Tool]
-- [Manulife Convert to Devops Pipeline of 1000]
+- Manulife convert existing over 1000 projects to internal Devops Pipeline process. 
+- Creation tool that Automating Blackberry for verification
+- Windows Xp Cret for McAfee Software
 
 - See all my Achievements here 👉🏻 [MattSpeer]()
 
-## Profile Views
 
+##  **My Continuous Learning **
+
+## Profile Views
+I need to add more list of projects 
+- [Example Python coding](https://github.com/mspeers/python-examples)
+- Rewriting lightshowPi (Python) that use for my custom light show for my house.
 
 
 
