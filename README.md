@@ -44,6 +44,8 @@ Need to add informaton here
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" width="70" height="30" />
   <img alt="Github" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=Github&logoColor=white" width="100" height="30"/>
    <img alt="Github" src=" https://img.shields.io/badge/logo-gitlab-blue?style=flat-square&logo=GitLab&logoColor=white" width="100" height="30"/>
+</p>
+   
 ##  **My Achievements 🏅**
 - [Windows Xp Cret for McAfee Software]
 - [Blackberry Automation Tool]
