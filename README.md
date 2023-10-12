@@ -33,9 +33,9 @@ source technology
 ## **My Bookshelf**
 👇 Check out the books reading / listing to  technologies 👇
 
-<a href="https://amzn.to/2UeUjAI"><img align="center" width="250" height="300" alt="" src="https://images.app.goo.gl/LXad6fKqJZ41rwZVA" /></a> 
+<a href="https://amzn.to/2UeUjAI"><img align="center" width="250" height="300" alt="" src="https://m.media-amazon.com/images/I/61jC09nUHxL._AC_UF1000,1000_QL80_.jpg" /></a> 
 
-<a href="https://www.amazon.com/The-Unicorn-Project-Gene-Kim-audiobook/dp/B0812C82T9"><img align="center" width="250" height="300" alt="" src="https://images.app.goo.gl/nVdYad8xfuDqyMWi8" /></a> 
+<a href="https://www.amazon.com/The-Unicorn-Project-Gene-Kim-audiobook/dp/B0812C82T9"><img align="center" width="250" height="300" alt="" src="https://m.media-amazon.com/images/I/81CjGQwSauL._AC_UF350,350_QL50_.jpg" /></a> 
 
 <br>
 
