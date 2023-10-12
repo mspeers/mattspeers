@@ -17,7 +17,7 @@
 <a href="https://gitlab.com/mspeers"> GitLab MSpeers</a>
 <br>
 
-## **Courses complated**
+##  **My Continuous Learning **
 
 - 2022: A Cloutd Guru Online course over 30 cousrse around Cloud AWS, GCP, Terraform. 
 - 2020: PluralSight online course over 50 course around Cloud (Azure Kubernetes Services,
@@ -61,7 +61,7 @@ source technology
 - See all my Achievements here 👉🏻 [MattSpeer]()
 
 
-##  **My Continuous Learning **
+
 
 ## Profile Views
 I need to add more list of projects 
