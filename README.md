@@ -31,10 +31,11 @@ source technology
 <br>
 
 ## **My Bookshelf**
-👇👇👇 Check out the books reading / listing to  technologies 👇👇👇
+👇 Check out the books reading / listing to  technologies 👇
 
-<a href="https://amzn.to/2UeUjAI"> <img align="center" alt="" src="https://images-na.ssl-images-amazon.com/images/I/41SXDY4t6-L._SX404_BO1,204,203,200_.jpg" width="250" height="300" /></a>
-<a href="https://amzn.to/3HAw4pF"> <img align="center" alt="" src="https://m.media-amazon.com/images/I/41MY0+EHAbL._SX331_BO1,204,203,200_.jpg" width="200" height="300" /></a>
+<a href="https://amzn.to/2UeUjAI"><img align="center" width="250" height="300" alt="" src="https://images.app.goo.gl/LXad6fKqJZ41rwZVA" /></a> 
+
+<a href="https://www.amazon.com/The-Unicorn-Project-Gene-Kim-audiobook/dp/B0812C82T9"><img align="center" width="250" height="300" alt="" src="https://images.app.goo.gl/nVdYad8xfuDqyMWi8" /></a> 
 
 <br>
 
